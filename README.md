@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things programming, currently focused on Fullstack JS and Salesforce
 - 🌱 I’m currently building my Fullstack Portfolio
 - 💞️ I’m looking to collaborate on Javascript Projects
-- 📫 How to reach me ...
+- 📫 How to reach me Linkedin: Nathan Sodja Obodai
 
 <!---
 NateOs/NateOs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
