@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NateOs
+- 👋 Hi, @NateOs here.
 - 👀 I’m interested in all things programming, currently focused on Fullstack JS and Salesforce
-- 🌱 I’m currently building my Fullstack Portfolio
+- 🌱 Currently playing with fullstack MERN projects
 - 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me Linkedin: Nathan Sodja Obodai
 
